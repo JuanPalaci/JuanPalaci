@@ -10,7 +10,9 @@
 
 - 🤝 I’m looking for help with **Frontend Design**
 
-- 👨‍💻 All of my projects are available [@JuanPalaci](https://github.com/JuanPalaci)
+- 👨‍💻 My project about **vehicle booking system**:
+  - 🚗 [Frontend Repository](https://github.com/PNC-012025/pnc-proyecto-final-frontend-grupo-04-s01)
+  - ⚙️ [Backend Repository](https://github.com/PNC-012025/pnc-proyecto-final-grupo-04-s01)
 
 - 💬 Ask me about **Games and Front development 😆**
 
