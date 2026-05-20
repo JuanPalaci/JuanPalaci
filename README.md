@@ -113,7 +113,6 @@ Passive Recon  →  Enumeration  →  Exploitation  →  Privilege Escalation  �
 
 🚧 **In progress — coming soon:**
 
-ptor)
 - 🛠️ Security tooling & scripts
 
 ---
