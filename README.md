@@ -109,12 +109,10 @@ Passive Recon  →  Enumeration  →  Exploitation  →  Privilege Escalation  �
 
 ### 📂 Repositories
 - 📝 [CTF & lab writeups](https://github.com/JuanPalaci/SecurityWriteups.git)
-- 📄 [Security tooling project](https://github.com/Joma203/ProyectoFinalACA.git)
 - 📄 [Penetration testing reports (SysReptor)](https://github.com/JuanPalaci/Assestments.git)
 
-🚧 **In progress — coming soon:**
-
 - 🛠️ Security tooling & scripts
+- 📄 [Security tooling project Open VAS extension](https://github.com/Joma203/ProyectoFinalACA.git)
 
 ---
 
