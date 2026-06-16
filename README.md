@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Juan Carlos Sibrián 👋</h1>
-<h3 align="center">Computer Science & Engineering Student · Aspiring Penetration Tester</h3>
+<h3 align="center">Computer Science & Engineering Student · Tech Project Lead · Security Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-carlos-sibrian-palacios-40180a199" target="_blank">
@@ -17,7 +17,7 @@
 
 ### 🛡️ About Me
 
-I'm a 5th-year Computer Science & Engineering student at **UCA El Salvador**, focused on **offensive security and penetration testing**. Active CTF player, hands-on lab practitioner, and team leader passionate about web application security and professional reporting workflows.
+I'm a 5th-year Computer Science & Engineering student at UCA El Salvador, passionate about the intersection of Product Management, Software Development, and System Security. Experienced team leader with hands-on exposure to Agile environments, web application architecture, and professional technical reporting. Active CTF player exploring how robust security principles integrate into the product lifecycle.
 
 - 🎯 **Currently:** Pentesting Trainee
 - 🔬 **Practicing on:** Hack The Box · TryHackMe
