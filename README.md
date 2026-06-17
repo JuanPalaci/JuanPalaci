@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <img src="https://img.shields.io/badge/El%20Salvador-0047AB?style=for-the-badge" alt="location"/>
-  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge" alt="focus"/>
 </p>
 
 ---
@@ -19,12 +18,12 @@
 
 I'm a 5th-year Computer Science & Engineering student at UCA El Salvador, passionate about the intersection of Product Management, Software Development, and System Security. Experienced team leader with hands-on exposure to Agile environments, web application architecture, and professional technical reporting. Active CTF player exploring how robust security principles integrate into the product lifecycle.
 
-- 🎯 **Currently:** Pentesting Trainee
+- 🎯 **Currently:** Engineering Student
 - 🔬 **Practicing on:** Hack The Box · TryHackMe
 - 🏆 **Recent achievement:** Top 10 — WOMCY Tech CTF Champions League (Cisco)
 - 📝 **Reporting stack:** SysReptor (self-hosted on Parrot OS) + OffSec templates
-- 🌱 **Exploring:** Web app pentesting · API security · AI/LLM security (Lakera Gandalf)
-- 💬 **Ask me about:** Web exploitation · CTF challenges · Burp Suite workflows
+- 🌱 **Exploring:** Web app pentesting · API security 
+- 💬 **Ask me about:** Web exploitation · CTF challenges · Software Development Lifecycle (SDLC)
 
 ---
 
@@ -37,18 +36,7 @@ I'm a 5th-year Computer Science & Engineering student at UCA El Salvador, passio
 | BrunnerCTF 2025 | Flags captured | Web Exploitation |
 | CTF V1T | Flags captured | Reverse Engineering |
 
----
 
-### 🎯 Methodology
-
-I follow a structured five-phase approach in every engagement:
-
-```
-Passive Recon  →  Enumeration  →  Exploitation  →  Privilege Escalation  →  Documentation
-                                                                          (ongoing throughout)
-```
-
----
 
 ### 🔧 Offensive Security Toolkit
 
